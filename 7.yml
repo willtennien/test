@@ -1673,7 +1673,14 @@ appTemplate:
                 height: 1
                 width: 3
                 tabNum: 0
-            mobilePosition2: null
+            mobilePosition2:
+              position2:
+                container: ''
+                row: 3
+                col: 7
+                height: 1
+                width: 3
+                tabNum: 0
             tabIndex: null
             container: ''
       - text56:
