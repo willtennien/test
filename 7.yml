@@ -1742,14 +1742,7 @@ appTemplate:
                 height: 1
                 width: 3
                 tabNum: 0
-            mobilePosition2:
-              position2:
-                container: ''
-                row: 2
-                col: 3
-                height: 1
-                width: 3
-                tabNum: 0
+            mobilePosition2: null
             tabIndex: null
             container: ''
   height: 0
