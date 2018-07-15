@@ -102,7 +102,7 @@ appTemplate:
                 - sortedDesc: false
                 - columnMappersRenderAsHTML:
                     orderedmap: []
-                - pageSize: 6
+                - pageSize: 5
                 - selectedColumn: null
                 - sortedColumn: ''
                 - actionButtonText: ''
@@ -239,7 +239,7 @@ appTemplate:
                 - sortedDesc: false
                 - columnMappersRenderAsHTML:
                     orderedmap: []
-                - pageSize: 6
+                - pageSize: 5
                 - selectedColumn: null
                 - sortedColumn: ''
                 - actionButtonText: ''
