@@ -170,7 +170,7 @@ appTemplate:
               position2:
                 container: ''
                 row: 0
-                col: 9
+                col: 8
                 height: 1
                 width: -2
                 tabNum: 0
