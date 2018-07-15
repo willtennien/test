@@ -78,7 +78,7 @@ appTemplate:
                 - allowMultiRowSelect: false
                 - columnFormats:
                     orderedmap: []
-                - actionButton: false
+                - actionButton: true
                 - columnVisibility:
                     orderedmap:
                       - address_id: true
