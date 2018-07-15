@@ -172,7 +172,7 @@ appTemplate:
                 row: 0
                 col: 8
                 height: 1
-                width: 4
+                width: -2
                 tabNum: 0
             mobilePosition2: null
             tabIndex: null
