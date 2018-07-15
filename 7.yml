@@ -144,39 +144,6 @@ appTemplate:
             mobilePosition2: null
             tabIndex: null
             container: ''
-      - textinput1:
-          pluginTemplate:
-            id: textinput1
-            type: widget
-            subtype: TextInputWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - readonly: ''
-                - disabledKeyCodes: ''
-                - docsSlug: textinput
-                - leftIconName: search
-                - initialValue: ''
-                - value: ''
-                - placeholder: Search here...
-                - label: Name
-                - labelMaxWidth: ''
-                - onSubmit: ''
-                - type: text
-                - allowedRegex: .*
-                - required: ''
-            position: null
-            position2:
-              position2:
-                container: ''
-                row: 0
-                col: 8
-                height: 1
-                width: -2
-                tabNum: 0
-            mobilePosition2: null
-            tabIndex: null
-            container: ''
       - table2:
           pluginTemplate:
             id: table2
@@ -456,7 +423,7 @@ appTemplate:
             resourceName: null
             template:
               orderedmap:
-                - value: lorem ipsu
+                - value: lorem ipsum
                 - html: false
                 - scrollOverflow: false
                 - truncateOverflow: false
