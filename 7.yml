@@ -67,4 +67,9 @@
   ","n","position2","v",["^
   ","^?","","row",2,"col",8,"^D",1,"^E",3,"^F",0]]],"^=",["^0",["^
   ","n","position2","v",["^
-  ","^?","","row",2,"col",8,"^D",1,"^E",3,"^F",0]]],"^>",null,"^?","","^@",null]]]]],"createdAt",null,"version","2.15.3","responsiveLayoutDisabled",false,"urlFragmentDefinitions",["^:",[]],"pageLoadValueOverrides",["^:",[]]]]]
+  ","^?","","row",2,"col",8,"^D",1,"^E",3,"^F",0]]],"^>",null,"^?","","^@",null]]],"text7",["^0",["^
+  ","n","pluginTemplate","v",["^
+  ","id","text7","^6","widget","^7","TextWidget","^8",null,"^9",["^5",["value","lorem
+  ipsum","html",false,"scrollOverflow",false,"truncateOverflow",false]],"^;",null,"^<",["^0",["^
+  ","n","position2","v",["^
+  ","^?","","row",3,"col",8,"^D",1,"^E",3,"^F",0]]],"^=",null,"^>",null,"^?","","^@",null]]]]],"createdAt",null,"version","2.15.3","responsiveLayoutDisabled",false,"urlFragmentDefinitions",["^:",[]],"pageLoadValueOverrides",["^:",[]]]]]
