@@ -401,7 +401,7 @@ appTemplate:
             position2:
               position2:
                 container: ''
-                row: 5
+                row: 9
                 col: 8
                 height: 1
                 width: 3
@@ -425,7 +425,7 @@ appTemplate:
             position2:
               position2:
                 container: ''
-                row: 1
+                row: 5
                 col: 8
                 height: 1
                 width: 3
@@ -593,7 +593,7 @@ appTemplate:
             position2:
               position2:
                 container: ''
-                row: 6
+                row: 10
                 col: 8
                 height: 1
                 width: 3
@@ -617,7 +617,242 @@ appTemplate:
             position2:
               position2:
                 container: ''
+                row: 8
+                col: 8
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text16:
+          pluginTemplate:
+            id: text16
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 6
+                col: 8
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text17:
+          pluginTemplate:
+            id: text17
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 7
+                col: 8
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - table3:
+          pluginTemplate:
+            id: table3
+            type: widget
+            subtype: TableWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - actionButtonQuery: ''
+                - columnWidths:
+                    - orderedmap:
+                        - id: Title
+                        - value: 250
+                    - orderedmap:
+                        - id: Sales
+                        - value: 80
+                - columnWidthsMobile: []
+                - columnHeaderNames:
+                    orderedmap: []
+                - alwaysShowPaginator: false
+                - columnColors:
+                    orderedmap:
+                      - Title: blue
+                      - Description: green
+                      - Sales: orange
+                - allowMultiRowSelect: false
+                - columnFormats:
+                    orderedmap: []
+                - actionButton: false
+                - columnVisibility:
+                    orderedmap:
+                      - Title: true
+                      - Description: true
+                      - Sales: true
+                - selectedPageIndex: '0'
+                - serverPaginated: false
+                - data: |-
+                    [{
+                      "Title": "Working Effectively with Legacy Code",
+                      "Description": "Resist the urge to re-write",
+                      "Sales": 300
+                    }, {
+                      "Title": "101 Ways to Cook Eggs",
+                      "Description": "Breakfast is on me",
+                      "Sales": 424
+                    }, {
+                      "Title": "War and Peace",
+                      "Description": "Not a novel, even less is it a poem, and still less a historical chronicle",
+                      "Sales": 55
+                    }, {
+                      "Title": "CLRS",
+                      "Description": "Lots of algorithms",
+                      "Sales": 2
+                    }]
+                - selectRowByDefault: true
+                - paginationOffset: 0
+                - sortedDesc: false
+                - columnMappersRenderAsHTML:
+                    orderedmap: []
+                - pageSize: 6
+                - selectedColumn: null
+                - sortedColumn: ''
+                - actionButtonText: ''
+                - columnAllowOverflow:
+                    orderedmap: []
+                - onRowSelect: ''
+                - selectedIndex: ''
+                - totalRowCount: ''
+                - columnMappers:
+                    orderedmap: []
+                - columns:
+                    - Title
+                    - Sales
+                    - Description
+                - sort: null
+                - selectedRow:
+                    object:
+                      index: null
+                      data: null
+            position: null
+            position2:
+              position2:
+                container: ''
                 row: 4
+                col: 11
+                height: 8
+                width: 8
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text18:
+          pluginTemplate:
+            id: text18
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 4
+                col: 8
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text19:
+          pluginTemplate:
+            id: text19
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 3
+                col: 8
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text20:
+          pluginTemplate:
+            id: text20
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 2
+                col: 8
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text21:
+          pluginTemplate:
+            id: text21
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 1
                 col: 8
                 height: 1
                 width: 3
