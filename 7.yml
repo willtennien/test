@@ -980,6 +980,30 @@ appTemplate:
             mobilePosition2: null
             tabIndex: null
             container: ''
+      - text27:
+          pluginTemplate:
+            id: text27
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 1
+                col: 12
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
   height: 0
   heightHeap:
     array: []
