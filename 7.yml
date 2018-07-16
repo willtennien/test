@@ -136,7 +136,7 @@ appTemplate:
             position2:
               position2:
                 container: ''
-                row: 3
+                row: 4
                 col: 0
                 height: 8
                 width: 8
@@ -237,7 +237,7 @@ appTemplate:
             position2:
               position2:
                 container: ''
-                row: 11
+                row: 12
                 col: 0
                 height: 8
                 width: 8
@@ -479,7 +479,7 @@ appTemplate:
             position2:
               position2:
                 container: ''
-                row: 3
+                row: 2
                 col: 8
                 height: 1
                 width: 3
@@ -503,8 +503,8 @@ appTemplate:
             position2:
               position2:
                 container: ''
-                row: 2
-                col: 7
+                row: 3
+                col: 8
                 height: 1
                 width: 3
                 tabNum: 0
