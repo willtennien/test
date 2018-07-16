@@ -139,7 +139,7 @@ appTemplate:
             position2:
               position2:
                 container: ''
-                row: 4
+                row: 0
                 col: 0
                 height: 8
                 width: 8
