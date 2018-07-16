@@ -593,7 +593,7 @@ appTemplate:
             position2:
               position2:
                 container: ''
-                row: 3
+                row: 4
                 col: 8
                 height: 1
                 width: 3
@@ -617,7 +617,7 @@ appTemplate:
             position2:
               position2:
                 container: ''
-                row: 4
+                row: 3
                 col: 8
                 height: 1
                 width: 3
