@@ -418,30 +418,6 @@ appTemplate:
             mobilePosition2: null
             tabIndex: null
             container: ''
-      - text12:
-          pluginTemplate:
-            id: text12
-            type: widget
-            subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position: null
-            position2:
-              position2:
-                container: ''
-                row: 0
-                col: 8
-                height: 1
-                width: 3
-                tabNum: 0
-            mobilePosition2: null
-            tabIndex: null
-            container: ''
       - text5:
           pluginTemplate:
             id: text5
@@ -458,7 +434,7 @@ appTemplate:
             position2:
               position2:
                 container: ''
-                row: 1
+                row: 0
                 col: 8
                 height: 1
                 width: 3
@@ -482,7 +458,7 @@ appTemplate:
             position2:
               position2:
                 container: ''
-                row: 2
+                row: 1
                 col: 8
                 height: 1
                 width: 3
@@ -498,7 +474,7 @@ appTemplate:
             resourceName: null
             template:
               orderedmap:
-                - value: lorem ipsu
+                - value: lorem ipsum
                 - html: false
                 - scrollOverflow: false
                 - truncateOverflow: false
@@ -506,7 +482,7 @@ appTemplate:
             position2:
               position2:
                 container: ''
-                row: 3
+                row: 2
                 col: 8
                 height: 1
                 width: 3
@@ -522,7 +498,31 @@ appTemplate:
             resourceName: null
             template:
               orderedmap:
-                - value: lorem ipsu
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 3
+                col: 8
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text10:
+          pluginTemplate:
+            id: text10
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
                 - html: false
                 - scrollOverflow: false
                 - truncateOverflow: false
