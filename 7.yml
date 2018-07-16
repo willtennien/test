@@ -577,6 +577,54 @@ appTemplate:
             mobilePosition2: null
             tabIndex: null
             container: ''
+      - text14:
+          pluginTemplate:
+            id: text14
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 3
+                col: 8
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text15:
+          pluginTemplate:
+            id: text15
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 4
+                col: 8
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
   height: 0
   heightHeap:
     array: []
