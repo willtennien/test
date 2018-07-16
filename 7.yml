@@ -136,7 +136,7 @@ appTemplate:
             position2:
               position2:
                 container: ''
-                row: 0
+                row: 3
                 col: 0
                 height: 8
                 width: 8
@@ -237,7 +237,7 @@ appTemplate:
             position2:
               position2:
                 container: ''
-                row: 9
+                row: 11
                 col: 0
                 height: 8
                 width: 8
@@ -479,8 +479,32 @@ appTemplate:
             position2:
               position2:
                 container: ''
-                row: 2
+                row: 3
                 col: 8
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text8:
+          pluginTemplate:
+            id: text8
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 2
+                col: 7
                 height: 1
                 width: 3
                 tabNum: 0
