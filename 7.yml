@@ -56,6 +56,9 @@ appTemplate:
                     - object:
                         id: last_name
                         value: 46
+                    - object:
+                        id: activebool
+                        value: 100
                 - columnWidthsMobile: []
                 - columnHeaderNames:
                     orderedmap: []
