@@ -529,6 +529,54 @@ appTemplate:
             mobilePosition2: null
             tabIndex: null
             container: ''
+      - text12:
+          pluginTemplate:
+            id: text12
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 2
+                col: 8
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text13:
+          pluginTemplate:
+            id: text13
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 3
+                col: 8
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
   height: 0
   heightHeap:
     array: []
