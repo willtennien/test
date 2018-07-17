@@ -1737,7 +1737,7 @@ appTemplate:
             position2:
               position2:
                 container: ''
-                row: 2
+                row: 3
                 col: 3
                 height: 1
                 width: 3
@@ -1761,7 +1761,7 @@ appTemplate:
             position2:
               position2:
                 container: ''
-                row: 3
+                row: 4
                 col: 2
                 height: 1
                 width: 3
@@ -1785,7 +1785,7 @@ appTemplate:
             position2:
               position2:
                 container: ''
-                row: 4
+                row: 5
                 col: 2
                 height: 1
                 width: 3
@@ -1809,7 +1809,7 @@ appTemplate:
             position2:
               position2:
                 container: ''
-                row: 5
+                row: 6
                 col: 2
                 height: 1
                 width: 3
@@ -1833,7 +1833,7 @@ appTemplate:
             position2:
               position2:
                 container: ''
-                row: 6
+                row: 7
                 col: 2
                 height: 1
                 width: 3
@@ -1857,7 +1857,31 @@ appTemplate:
             position2:
               position2:
                 container: ''
-                row: 7
+                row: 8
+                col: 2
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text63:
+          pluginTemplate:
+            id: text63
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 2
                 col: 2
                 height: 1
                 width: 3
