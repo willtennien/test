@@ -1845,5 +1845,5 @@ appTemplate:
   heightHeap:
     array: []
   createdAt: null
-  version: 2.15.3
+  version: 2.15.9
   responsiveLayoutDisabled: false
