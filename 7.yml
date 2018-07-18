@@ -1646,7 +1646,7 @@ appTemplate:
                 - value: '{{$.fn.jquery}}'
                 - html: false
                 - scrollOverflow: false
-                - truncateOverflow: true
+                - truncateOverflow: false
             position: null
             position2:
               position2:
