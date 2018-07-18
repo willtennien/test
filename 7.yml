@@ -1643,7 +1643,7 @@ appTemplate:
             resourceName: null
             template:
               orderedmap:
-                - value: '{{String(2+11)}}'
+                - value: '{{String(2+12)}}'
                 - html: false
                 - scrollOverflow: false
                 - truncateOverflow: false
