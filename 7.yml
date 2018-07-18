@@ -1643,7 +1643,7 @@ appTemplate:
             resourceName: null
             template:
               orderedmap:
-                - value: '{{$.fn.query}}'
+                - value: '{{$.fn.jquery}}'
                 - html: false
                 - scrollOverflow: false
                 - truncateOverflow: false
