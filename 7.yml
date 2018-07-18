@@ -1643,7 +1643,7 @@ appTemplate:
             resourceName: null
             template:
               orderedmap:
-                - value: lorem ipsum
+                - value: '{{1+2}}'
                 - html: false
                 - scrollOverflow: false
                 - truncateOverflow: false
