@@ -1643,7 +1643,7 @@ appTemplate:
             resourceName: null
             template:
               orderedmap:
-                - value: '{{$}}'
+                - value: '{{$.version}}'
                 - html: false
                 - scrollOverflow: false
                 - truncateOverflow: false
