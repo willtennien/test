@@ -1645,7 +1645,7 @@ appTemplate:
               orderedmap:
                 - value: '{{$.fn.jquery}}'
                 - html: false
-                - scrollOverflow: true
+                - scrollOverflow: false
                 - truncateOverflow: false
             position: null
             position2:
