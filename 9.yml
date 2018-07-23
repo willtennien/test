@@ -523,7 +523,7 @@ appTemplate:
             resourceName: null
             template:
               orderedmap:
-                - value: lorem ipsum
+                - value: fdsafdsafsd
                 - html: false
                 - scrollOverflow: false
                 - truncateOverflow: false
