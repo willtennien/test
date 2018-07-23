@@ -1,0 +1,523 @@
+appTemplate:
+  datasourceCount: 0
+  widgetCount: 0
+  isFetching: false
+  plugins:
+    orderedmap:
+      - text1:
+          pluginTemplate:
+            id: text1
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: '{{window.foo}}'
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 2
+                col: 5
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text2:
+          pluginTemplate:
+            id: text2
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: '{{window.foo}}'
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 2
+                col: 6
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text3:
+          pluginTemplate:
+            id: text3
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 3
+                col: 6
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text4:
+          pluginTemplate:
+            id: text4
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: 'lorem ipsum {{"foo"}}'
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 2
+                col: 6
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text5:
+          pluginTemplate:
+            id: text5
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: 'lorem ipsum {{1+2}}'
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 0
+                col: 9
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text6:
+          pluginTemplate:
+            id: text6
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 3
+                col: 7
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text7:
+          pluginTemplate:
+            id: text7
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 2
+                col: 3
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text8:
+          pluginTemplate:
+            id: text8
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 5
+                col: 1
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text9:
+          pluginTemplate:
+            id: text9
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 6
+                col: 2
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text10:
+          pluginTemplate:
+            id: text10
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 7
+                col: 3
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text11:
+          pluginTemplate:
+            id: text11
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 4
+                col: 3
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text12:
+          pluginTemplate:
+            id: text12
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 6
+                col: 6
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text13:
+          pluginTemplate:
+            id: text13
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 7
+                col: 8
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text14:
+          pluginTemplate:
+            id: text14
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 1
+                col: 2
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text15:
+          pluginTemplate:
+            id: text15
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 4
+                col: 1
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text16:
+          pluginTemplate:
+            id: text16
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 5
+                col: 3
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2:
+              position2:
+                container: ''
+                row: 5
+                col: 3
+                height: 1
+                width: 3
+                tabNum: 0
+            tabIndex: null
+            container: ''
+      - text17:
+          pluginTemplate:
+            id: text17
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 6
+                col: 2
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text18:
+          pluginTemplate:
+            id: text18
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 2
+                col: 3
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text19:
+          pluginTemplate:
+            id: text19
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 4
+                col: 4
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text20:
+          pluginTemplate:
+            id: text20
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 3
+                col: 2
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+      - text21:
+          pluginTemplate:
+            id: text21
+            type: widget
+            subtype: TextWidget
+            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position: null
+            position2:
+              position2:
+                container: ''
+                row: 7
+                col: 4
+                height: 1
+                width: 3
+                tabNum: 0
+            mobilePosition2: null
+            tabIndex: null
+            container: ''
+  height: 0
+  heightHeap:
+    array: []
+  createdAt: null
+  version: '43.0'
+  responsiveLayoutDisabled: false
