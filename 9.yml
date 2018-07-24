@@ -372,7 +372,7 @@ appTemplate:
             subtype: TextWidget
             template:
               ordered:
-                - value: lorem ipsum
+                - value: lorem ips
                 - html: false
                 - scrollOverflow: false
                 - truncateOverflow: false
@@ -380,6 +380,23 @@ appTemplate:
               position2:
                 row: 5
                 col: 5
+                height: 1
+                width: 3
+      - text32:
+          pluginTemplate:
+            id: text32
+            type: widget
+            subtype: TextWidget
+            template:
+              ordered:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position2:
+              position2:
+                row: 1
+                col: 4
                 height: 1
                 width: 3
   height: 0
