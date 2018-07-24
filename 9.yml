@@ -331,25 +331,9 @@ appTemplate:
                 col: 3
                 height: 1
                 width: 3
-      - text40:
+      - text20:
           pluginTemplate:
-            id: text40
-            type: widget
-            subtype: TextWidget
-            template:
-              ordered:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                col: 6
-                height: 1
-                width: 3
-      - text22:
-          pluginTemplate:
-            id: text22
+            id: text20
             type: widget
             subtype: TextWidget
             template:
@@ -361,126 +345,7 @@ appTemplate:
             position2:
               position2:
                 row: 2
-                col: 3
-                height: 1
-                width: 3
-      - text29:
-          pluginTemplate:
-            id: text29
-            type: widget
-            subtype: TextWidget
-            template:
-              ordered:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 3
-                col: 4
-                height: 1
-                width: 3
-      - text32:
-          pluginTemplate:
-            id: text32
-            type: widget
-            subtype: TextWidget
-            template:
-              ordered:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 4
-                col: 5
-                height: 1
-                width: 3
-      - text33:
-          pluginTemplate:
-            id: text33
-            type: widget
-            subtype: TextWidget
-            template:
-              ordered:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 5
                 col: 6
-                height: 1
-                width: 3
-      - text36:
-          pluginTemplate:
-            id: text36
-            type: widget
-            subtype: TextWidget
-            template:
-              ordered:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 6
-                col: 7
-                height: 1
-                width: 3
-      - text37:
-          pluginTemplate:
-            id: text37
-            type: widget
-            subtype: TextWidget
-            template:
-              ordered:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 8
-                col: 8
-                height: 1
-                width: 3
-      - text38:
-          pluginTemplate:
-            id: text38
-            type: widget
-            subtype: TextWidget
-            template:
-              ordered:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 7
-                col: 9
-                height: 1
-                width: 3
-      - text39:
-          pluginTemplate:
-            id: text39
-            type: widget
-            subtype: TextWidget
-            template:
-              ordered:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 1
-                col: 2
                 height: 1
                 width: 3
   height: 0
