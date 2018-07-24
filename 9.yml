@@ -500,6 +500,23 @@ appTemplate:
                 col: 6
                 height: 1
                 width: 3
+      - text41:
+          pluginTemplate:
+            id: text41
+            type: widget
+            subtype: TextWidget
+            template:
+              ordered:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position2:
+              position2:
+                row: 3
+                col: 4
+                height: 1
+                width: 3
   height: 0
   heightHeap:
     array: []
