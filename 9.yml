@@ -344,7 +344,7 @@ appTemplate:
                 - truncateOverflow: false
             position2:
               position2:
-                row: 2
+                row: 3
                 col: 6
                 height: 1
                 width: 3
@@ -361,7 +361,7 @@ appTemplate:
                 - truncateOverflow: false
             position2:
               position2:
-                row: 4
+                row: 5
                 col: 6
                 height: 1
                 width: 3
@@ -378,8 +378,25 @@ appTemplate:
                 - truncateOverflow: false
             position2:
               position2:
-                row: 3
+                row: 4
                 col: 7
+                height: 1
+                width: 3
+      - text32:
+          pluginTemplate:
+            id: text32
+            type: widget
+            subtype: TextWidget
+            template:
+              ordered:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position2:
+              position2:
+                row: 2
+                col: 5
                 height: 1
                 width: 3
   height: 0
