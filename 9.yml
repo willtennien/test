@@ -389,7 +389,7 @@ appTemplate:
             subtype: TextWidget
             template:
               ordered:
-                - value: lorem ipsum
+                - value: lorem ip
                 - html: false
                 - scrollOverflow: false
                 - truncateOverflow: false
