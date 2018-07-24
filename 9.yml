@@ -3,151 +3,11 @@ appTemplate:
   isFetching: false
   plugins:
     orderedmap:
-      - text1:
-          pluginTemplate:
-            id: text1
-            type: widget
-            subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: '{{window.foo}}'
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 2
-                col: 5
-                height: 1
-                width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text2:
-          pluginTemplate:
-            id: text2
-            type: widget
-            subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: '{{window.foo}}'
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 6
-                col: 6
-                height: 1
-                width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text3:
-          pluginTemplate:
-            id: text3
-            type: widget
-            subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 8
-                col: 6
-                height: 1
-                width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text4:
-          pluginTemplate:
-            id: text4
-            type: widget
-            subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: 'lorem ipsum {{"foo"}}'
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 5
-                col: 6
-                height: 1
-                width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text5:
-          pluginTemplate:
-            id: text5
-            type: widget
-            subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: 'lorem ipsum {{1+2}}'
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                col: 9
-                height: 1
-                width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text6:
-          pluginTemplate:
-            id: text6
-            type: widget
-            subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 7
-                col: 7
-                height: 1
-                width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text7:
-          pluginTemplate:
-            id: text7
-            type: widget
-            subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 2
-                col: 3
-                height: 1
-                width: 3
-            mobilePosition2: null
-            tabIndex: null
       - text8:
           pluginTemplate:
             id: text8
             type: widget
             subtype: TextWidget
-            resourceName: null
             template:
               orderedmap:
                 - value: lorem ipsum
@@ -156,363 +16,15 @@ appTemplate:
                 - truncateOverflow: false
             position2:
               position2:
-                row: 6
+                row: 11
                 col: 1
                 height: 1
                 width: 3
-            mobilePosition2: null
-            tabIndex: null
       - text9:
           pluginTemplate:
             id: text9
             type: widget
             subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 14
-                col: 2
-                height: 1
-                width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text10:
-          pluginTemplate:
-            id: text10
-            type: widget
-            subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 16
-                col: 3
-                height: 1
-                width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text11:
-          pluginTemplate:
-            id: text11
-            type: widget
-            subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 4
-                col: 3
-                height: 1
-                width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text12:
-          pluginTemplate:
-            id: text12
-            type: widget
-            subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 11
-                col: 6
-                height: 1
-                width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text13:
-          pluginTemplate:
-            id: text13
-            type: widget
-            subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 12
-                col: 8
-                height: 1
-                width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text14:
-          pluginTemplate:
-            id: text14
-            type: widget
-            subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 1
-                col: 2
-                height: 1
-                width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text15:
-          pluginTemplate:
-            id: text15
-            type: widget
-            subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 4
-                col: 1
-                height: 1
-                width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text16:
-          pluginTemplate:
-            id: text16
-            type: widget
-            subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 11
-                col: 3
-                height: 1
-                width: 3
-            mobilePosition2:
-              position2:
-                row: 5
-                col: 3
-                height: 1
-                width: 3
-            tabIndex: null
-      - text17:
-          pluginTemplate:
-            id: text17
-            type: widget
-            subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 13
-                col: 2
-                height: 1
-                width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text18:
-          pluginTemplate:
-            id: text18
-            type: widget
-            subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 2
-                col: 3
-                height: 1
-                width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text19:
-          pluginTemplate:
-            id: text19
-            type: widget
-            subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 9
-                col: 4
-                height: 1
-                width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text20:
-          pluginTemplate:
-            id: text20
-            type: widget
-            subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 3
-                col: 2
-                height: 1
-                width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text21:
-          pluginTemplate:
-            id: text21
-            type: widget
-            subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 15
-                col: 4
-                height: 1
-                width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text22:
-          pluginTemplate:
-            id: text22
-            type: widget
-            subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: fdsafdsafsd blaooo
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 3
-                col: 2
-                height: 1
-                width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text23:
-          pluginTemplate:
-            id: text23
-            type: widget
-            subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 10
-                col: 3
-                height: 1
-                width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text24:
-          pluginTemplate:
-            id: text24
-            type: widget
-            subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 12
-                col: 2
-                height: 1
-                width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text25:
-          pluginTemplate:
-            id: text25
-            type: widget
-            subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 17
-                col: 1
-                height: 1
-                width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text26:
-          pluginTemplate:
-            id: text26
-            type: widget
-            subtype: TextWidget
-            resourceName: null
             template:
               orderedmap:
                 - value: lorem ipsum
@@ -522,17 +34,14 @@ appTemplate:
             position2:
               position2:
                 row: 18
-                col: 1
+                col: 2
                 height: 1
                 width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text27:
+      - text10:
           pluginTemplate:
-            id: text27
+            id: text10
             type: widget
             subtype: TextWidget
-            resourceName: null
             template:
               orderedmap:
                 - value: lorem ipsum
@@ -541,17 +50,72 @@ appTemplate:
                 - truncateOverflow: false
             position2:
               position2:
-                row: 4
+                row: 20
+                col: 3
                 height: 1
                 width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text28:
+      - text12:
           pluginTemplate:
-            id: text28
+            id: text12
             type: widget
             subtype: TextWidget
-            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position2:
+              position2:
+                row: 14
+                col: 6
+                height: 1
+                width: 3
+      - text13:
+          pluginTemplate:
+            id: text13
+            type: widget
+            subtype: TextWidget
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position2:
+              position2:
+                row: 15
+                col: 8
+                height: 1
+                width: 3
+      - text16:
+          pluginTemplate:
+            id: text16
+            type: widget
+            subtype: TextWidget
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position2:
+              position2:
+                row: 15
+                col: 3
+                height: 1
+                width: 3
+            mobilePosition2:
+              position2:
+                row: 5
+                col: 3
+                height: 1
+                width: 3
+      - text17:
+          pluginTemplate:
+            id: text17
+            type: widget
+            subtype: TextWidget
             template:
               orderedmap:
                 - value: lorem ipsum
@@ -561,17 +125,14 @@ appTemplate:
             position2:
               position2:
                 row: 17
-                col: 5
+                col: 2
                 height: 1
                 width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text29:
+      - text19:
           pluginTemplate:
-            id: text29
+            id: text19
             type: widget
             subtype: TextWidget
-            resourceName: null
             template:
               orderedmap:
                 - value: lorem ipsum
@@ -580,18 +141,150 @@ appTemplate:
                 - truncateOverflow: false
             position2:
               position2:
-                row: 1
+                row: 13
+                col: 4
+                height: 1
+                width: 3
+      - text21:
+          pluginTemplate:
+            id: text21
+            type: widget
+            subtype: TextWidget
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position2:
+              position2:
+                row: 19
+                col: 4
+                height: 1
+                width: 3
+      - text23:
+          pluginTemplate:
+            id: text23
+            type: widget
+            subtype: TextWidget
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position2:
+              position2:
+                row: 14
+                col: 3
+                height: 1
+                width: 3
+      - text24:
+          pluginTemplate:
+            id: text24
+            type: widget
+            subtype: TextWidget
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position2:
+              position2:
+                row: 16
+                col: 2
+                height: 1
+                width: 3
+      - text25:
+          pluginTemplate:
+            id: text25
+            type: widget
+            subtype: TextWidget
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position2:
+              position2:
+                row: 21
+                col: 1
+                height: 1
+                width: 3
+      - text26:
+          pluginTemplate:
+            id: text26
+            type: widget
+            subtype: TextWidget
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position2:
+              position2:
+                row: 22
+                col: 1
+                height: 1
+                width: 3
+      - text27:
+          pluginTemplate:
+            id: text27
+            type: widget
+            subtype: TextWidget
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position2:
+              position2:
+                row: 10
+                height: 1
+                width: 3
+      - text28:
+          pluginTemplate:
+            id: text28
+            type: widget
+            subtype: TextWidget
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position2:
+              position2:
+                row: 21
                 col: 5
                 height: 1
                 width: 3
-            mobilePosition2: null
-            tabIndex: null
       - text30:
           pluginTemplate:
             id: text30
             type: widget
             subtype: TextWidget
-            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position2:
+              position2:
+                row: 11
+                col: 7
+                height: 1
+                width: 3
+      - text31:
+          pluginTemplate:
+            id: text31
+            type: widget
+            subtype: TextWidget
             template:
               orderedmap:
                 - value: lorem ipsum
@@ -604,14 +297,11 @@ appTemplate:
                 col: 7
                 height: 1
                 width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text31:
+      - text34:
           pluginTemplate:
-            id: text31
+            id: text34
             type: widget
             subtype: TextWidget
-            resourceName: null
             template:
               orderedmap:
                 - value: lorem ipsum
@@ -620,18 +310,32 @@ appTemplate:
                 - truncateOverflow: false
             position2:
               position2:
-                row: 9
-                col: 7
+                row: 12
+                col: 2
                 height: 1
                 width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text32:
+      - text35:
           pluginTemplate:
-            id: text32
+            id: text35
             type: widget
             subtype: TextWidget
-            resourceName: null
+            template:
+              orderedmap:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position2:
+              position2:
+                row: 10
+                col: 3
+                height: 1
+                width: 3
+      - text20:
+          pluginTemplate:
+            id: text20
+            type: widget
+            subtype: TextWidget
             template:
               orderedmap:
                 - value: lorem ipsum
@@ -641,91 +345,9 @@ appTemplate:
             position2:
               position2:
                 row: 2
-                col: 8
+                col: 4
                 height: 1
                 width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text33:
-          pluginTemplate:
-            id: text33
-            type: widget
-            subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 3
-                col: 7
-                height: 1
-                width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text34:
-          pluginTemplate:
-            id: text34
-            type: widget
-            subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 7
-                col: 2
-                height: 1
-                width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text35:
-          pluginTemplate:
-            id: text35
-            type: widget
-            subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 5
-                col: 3
-                height: 1
-                width: 3
-            mobilePosition2: null
-            tabIndex: null
-      - text36:
-          pluginTemplate:
-            id: text36
-            type: widget
-            subtype: TextWidget
-            resourceName: null
-            template:
-              orderedmap:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 4
-                col: 8
-                height: 1
-                width: 3
-            mobilePosition2: null
-            tabIndex: null
   height: 0
   heightHeap:
     array: []
