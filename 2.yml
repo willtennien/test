@@ -44,7 +44,7 @@ appTemplate:
             subtype: TextWidget
             template:
               ordered:
-                - value: lorem ipsum
+                - value: '  lorem ipsum'
                 - html: false
                 - scrollOverflow: false
                 - truncateOverflow: false
@@ -52,6 +52,23 @@ appTemplate:
               position2:
                 row: 3
                 col: 6
+                height: 1
+                width: 3
+      - text4:
+          pluginTemplate:
+            id: text4
+            type: widget
+            subtype: TextWidget
+            template:
+              ordered:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position2:
+              position2:
+                row: 4
+                col: 7
                 height: 1
                 width: 3
   height: 0
