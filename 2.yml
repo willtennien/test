@@ -2,10 +2,27 @@ version: '43.0'
 appTemplate:
   isFetching: false
   plugins:
-    ordered: []
+    ordered:
+      - text1:
+          pluginTemplate:
+            id: text1
+            type: widget
+            subtype: TextWidget
+            template:
+              ordered:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position2:
+              position2:
+                row: 1
+                col: 4
+                height: 1
+                width: 3
   height: 0
   heightHeap:
     array: []
   createdAt: null
-  version: null
+  version: 2.18.6
   responsiveLayoutDisabled: false
