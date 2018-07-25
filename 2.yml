@@ -44,7 +44,7 @@ appTemplate:
             subtype: TextWidget
             template:
               ordered:
-                - value: fdsafdsa
+                - value: blah blah
                 - html: false
                 - scrollOverflow: false
                 - truncateOverflow: false
@@ -204,6 +204,23 @@ appTemplate:
               position2:
                 row: 6
                 col: 7
+                height: 1
+                width: 3
+      - text13:
+          pluginTemplate:
+            id: text13
+            type: widget
+            subtype: TextWidget
+            template:
+              ordered:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position2:
+              position2:
+                row: 2
+                col: 9
                 height: 1
                 width: 3
   height: 0
