@@ -189,6 +189,23 @@ appTemplate:
                 col: 5
                 height: 1
                 width: 3
+      - text16:
+          pluginTemplate:
+            id: text16
+            type: widget
+            subtype: TextWidget
+            template:
+              ordered:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position2:
+              position2:
+                row: 9
+                col: 5
+                height: 1
+                width: 3
   height: 0
   heightHeap:
     array: []
