@@ -270,8 +270,25 @@ appTemplate:
                 - truncateOverflow: false
             position2:
               position2:
-                row: 8
+                row: 9
                 col: 1
+                height: 1
+                width: 3
+      - text21:
+          pluginTemplate:
+            id: text21
+            type: widget
+            subtype: TextWidget
+            template:
+              ordered:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position2:
+              position2:
+                row: 8
+                col: 2
                 height: 1
                 width: 3
   height: 0
