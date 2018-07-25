@@ -1,4 +1,4 @@
-version: '43.0'
+version: 43.0.9
 appTemplate:
   isFetching: false
   plugins:
@@ -17,7 +17,7 @@ appTemplate:
             position2:
               position2:
                 row: 1
-                col: 7
+                col: 4
                 height: 1
                 width: 3
       - text7:
@@ -134,8 +134,8 @@ appTemplate:
                 - truncateOverflow: false
             position2:
               position2:
-                row: 4
-                col: 6
+                row: 3
+                col: 7
                 height: 1
                 width: 3
   height: 0
