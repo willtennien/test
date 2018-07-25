@@ -20,6 +20,23 @@ appTemplate:
                 col: 4
                 height: 1
                 width: 3
+      - text2:
+          pluginTemplate:
+            id: text2
+            type: widget
+            subtype: TextWidget
+            template:
+              ordered:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position2:
+              position2:
+                row: 2
+                col: 5
+                height: 1
+                width: 3
   height: 0
   heightHeap:
     array: []
