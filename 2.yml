@@ -17,7 +17,7 @@ appTemplate:
             position2:
               position2:
                 row: 1
-                col: 4
+                col: 7
                 height: 1
                 width: 3
       - text7:
