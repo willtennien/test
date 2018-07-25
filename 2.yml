@@ -101,7 +101,7 @@ appTemplate:
                 - truncateOverflow: false
             position2:
               position2:
-                row: 6
+                row: 7
                 col: 9
                 height: 1
                 width: 3
@@ -168,7 +168,7 @@ appTemplate:
                 - truncateOverflow: false
             position2:
               position2:
-                row: 7
+                row: 8
                 col: 7
                 height: 1
                 width: 3
@@ -187,6 +187,23 @@ appTemplate:
               position2:
                 row: 8
                 col: 4
+                height: 1
+                width: 3
+      - text12:
+          pluginTemplate:
+            id: text12
+            type: widget
+            subtype: TextWidget
+            template:
+              ordered:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position2:
+              position2:
+                row: 6
+                col: 7
                 height: 1
                 width: 3
   height: 0
