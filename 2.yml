@@ -53,57 +53,6 @@ appTemplate:
                 col: 2
                 height: 1
                 width: 3
-      - text9:
-          pluginTemplate:
-            id: text9
-            type: widget
-            subtype: TextWidget
-            template:
-              ordered:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 6
-                col: 3
-                height: 1
-                width: 3
-      - text10:
-          pluginTemplate:
-            id: text10
-            type: widget
-            subtype: TextWidget
-            template:
-              ordered:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 9
-                col: 7
-                height: 1
-                width: 3
-      - text11:
-          pluginTemplate:
-            id: text11
-            type: widget
-            subtype: TextWidget
-            template:
-              ordered:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 8
-                col: 4
-                height: 1
-                width: 3
       - text15:
           pluginTemplate:
             id: text15
@@ -138,60 +87,9 @@ appTemplate:
                 col: 7
                 height: 1
                 width: 3
-      - text13:
-          pluginTemplate:
-            id: text13
-            type: widget
-            subtype: TextWidget
-            template:
-              ordered:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 1
-                col: 8
-                height: 1
-                width: 3
-      - text14:
-          pluginTemplate:
-            id: text14
-            type: widget
-            subtype: TextWidget
-            template:
-              ordered:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 7
-                col: 7
-                height: 1
-                width: 3
-      - text16:
-          pluginTemplate:
-            id: text16
-            type: widget
-            subtype: TextWidget
-            template:
-              ordered:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 5
-                col: 6
-                height: 1
-                width: 3
   height: 0
   heightHeap:
     array: []
   createdAt: null
-  version: 2.18.7
+  version: 2.18.6
   responsiveLayoutDisabled: false
