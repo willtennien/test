@@ -138,6 +138,23 @@ appTemplate:
                 col: 8
                 height: 1
                 width: 3
+      - text11:
+          pluginTemplate:
+            id: text11
+            type: widget
+            subtype: TextWidget
+            template:
+              ordered:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position2:
+              position2:
+                row: 6
+                col: 5
+                height: 1
+                width: 3
   height: 0
   heightHeap:
     array: []
