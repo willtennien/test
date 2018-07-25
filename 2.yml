@@ -101,7 +101,7 @@ appTemplate:
             position2:
               position2:
                 row: 5
-                col: 6
+                col: 4
                 height: 1
                 width: 3
       - text9:
