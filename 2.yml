@@ -1,0 +1,11 @@
+version: '43.0'
+appTemplate:
+  isFetching: false
+  plugins:
+    ordered: []
+  height: 0
+  heightHeap:
+    array: []
+  createdAt: null
+  version: null
+  responsiveLayoutDisabled: false
