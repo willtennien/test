@@ -83,7 +83,7 @@ appTemplate:
                 - truncateOverflow: false
             position2:
               position2:
-                row: 4
+                row: 5
                 col: 7
                 height: 1
                 width: 3
@@ -151,7 +151,7 @@ appTemplate:
                 - truncateOverflow: false
             position2:
               position2:
-                row: 6
+                row: 7
                 col: 5
                 height: 1
                 width: 3
@@ -168,7 +168,7 @@ appTemplate:
                 - truncateOverflow: false
             position2:
               position2:
-                row: 7
+                row: 8
                 col: 4
                 height: 1
                 width: 3
@@ -185,7 +185,7 @@ appTemplate:
                 - truncateOverflow: false
             position2:
               position2:
-                row: 8
+                row: 9
                 col: 5
                 height: 1
                 width: 3
@@ -202,7 +202,7 @@ appTemplate:
                 - truncateOverflow: false
             position2:
               position2:
-                row: 9
+                row: 10
                 col: 5
                 height: 1
                 width: 3
@@ -219,7 +219,7 @@ appTemplate:
                 - truncateOverflow: false
             position2:
               position2:
-                row: 5
+                row: 6
                 col: 7
                 height: 1
                 width: 3
@@ -270,7 +270,7 @@ appTemplate:
                 - truncateOverflow: false
             position2:
               position2:
-                row: 9
+                row: 10
                 col: 1
                 height: 1
                 width: 3
@@ -287,8 +287,25 @@ appTemplate:
                 - truncateOverflow: false
             position2:
               position2:
-                row: 8
+                row: 9
                 col: 2
+                height: 1
+                width: 3
+      - text22:
+          pluginTemplate:
+            id: text22
+            type: widget
+            subtype: TextWidget
+            template:
+              ordered:
+                - value: lorem ipsum
+                - html: false
+                - scrollOverflow: false
+                - truncateOverflow: false
+            position2:
+              position2:
+                row: 4
+                col: 9
                 height: 1
                 width: 3
   height: 0
