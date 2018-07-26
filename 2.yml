@@ -304,7 +304,7 @@ appTemplate:
                 - truncateOverflow: false
             position2:
               position2:
-                row: 5
+                row: 1
                 col: 9
                 height: 1
                 width: 3
