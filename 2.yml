@@ -291,23 +291,6 @@ appTemplate:
                 col: 2
                 height: 1
                 width: 3
-      - text22:
-          pluginTemplate:
-            id: text22
-            type: widget
-            subtype: TextWidget
-            template:
-              ordered:
-                - value: lorem ipsum
-                - html: false
-                - scrollOverflow: false
-                - truncateOverflow: false
-            position2:
-              position2:
-                row: 1
-                col: 7
-                height: 1
-                width: 3
       - text23:
           pluginTemplate:
             id: text23
