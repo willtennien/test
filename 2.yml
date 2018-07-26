@@ -305,7 +305,7 @@ appTemplate:
             position2:
               position2:
                 row: 1
-                col: 9
+                col: 7
                 height: 1
                 width: 3
       - text23:
